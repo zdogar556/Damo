@@ -1,4 +1,4 @@
 # Damo
 This is damo repository
 <br>
-Auther:Zain dogar
+Auther:Zain (dogar)
